@@ -1,0 +1,11 @@
+session_id,user_id,timestamp,device_type,location,page_visited,time_spent,clicks,scroll_depth,actions_performed,target_variable
+session_1,user_152,2023-09-25 14:23:12,Mobile,Europe,Home,210,4,85.3,1,1
+session_2,user_87,2023-09-05 09:15:47,Desktop,North America,Product,450,7,60.7,3,0
+session_3,user_298,2023-09-18 22:10:05,Tablet,Asia,Blog,120,2,40.2,0,1
+session_4,user_215,2023-09-12 16:45:30,Mobile,Africa,Pricing,300,5,95.6,2,0
+session_5,user_52,2023-09-20 11:05:55,Desktop,South America,Contact,180,3,70.1,1,1
+session_6,user_189,2023-09-30 08:20:17,Mobile,Australia,About,360,6,50.4,2,0
+session_7,user_63,2023-09-10 19:55:43,Tablet,Europe,Home,240,5,80.9,1,1
+session_8,user_275,2023-09-22 13:40:29,Desktop,Asia,Product,270,4,65.5,3,0
+session_9,user_141,2023-09-15 17:25:51,Mobile,North America,Blog,150,2,55.8,0,1
+session_10,user_89,2023-09-28 10:50:06,Tablet,Africa,Pricing,330,7,90.2,2,0
